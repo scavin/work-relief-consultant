@@ -1,0 +1,7 @@
+interface:
+  display_name: "Work Relief Consultant"
+  short_description: "帮用户找出最折腾的工作并减轻负担"
+  default_prompt: "使用 $work-relief-consultant 帮我找出工作里最重复、最耗神的部分，并给出容易开始的减负办法。"
+
+policy:
+  allow_implicit_invocation: true
